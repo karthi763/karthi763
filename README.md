@@ -36,8 +36,8 @@ I bridge the gap between **intuitive user interfaces** and **robust security arc
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartheesanjs&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=718096&icon_color=38B2AC" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartheesanjs&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=718096" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthixn&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=718096&icon_color=38B2AC" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiixn&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=718096" />
 </p>
 
 ---
