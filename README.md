@@ -1,35 +1,36 @@
 # Hi, I'm Kartheesan JS 👋  
-
-### 💻 Web Developer | Cybersecurity-Focused Developer  
+### @kartheesanjs
 
 ---
 
-## 🚀 About Me
+## 💻 Web Developer | Security-Focused Builder
 
-Web Developer with hands-on experience in building responsive, user-focused websites using HTML, CSS, and JavaScript.
+I build responsive and user-focused web applications using modern frontend technologies.
 
-Currently strengthening my foundation in cybersecurity fundamentals, networking, and secure web development practices.
+My approach combines:
+- Clean UI architecture
+- Performance optimization
+- Structured code practices
+- Security-aware development
 
-I focus on writing clean UI code with a security-first mindset while continuously learning modern web technologies.
+Focused on writing maintainable code and building scalable web experiences.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Flexbox%20%7C%20Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Currently Learning
-- Python  
-- MongoDB  
-- Firebase  
+### 🔐 Security & Fundamentals
+- Web Security Awareness  
+- XSS & SQL Injection Analysis  
 - Networking Fundamentals  
 - Linux Basics  
-- Web Security Concepts  
 
-### Tools
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -37,37 +38,19 @@ I focus on writing clean UI code with a security-first mindset while continuousl
 
 ---
 
-## 📂 Projects
-
-### 🔐 Cybersecurity Portfolio Website
-- Developed responsive portfolio using HTML, CSS, JavaScript  
-- Implemented mobile-first design principles  
-- Optimized performance and ensured cross-browser compatibility  
-- Structured clean UI and intuitive navigation  
-
----
-
-### 🏢 Interior Design Business Website
-- Built a 5-page responsive business website  
-- Improved client inquiry flow with better UI structure  
-- Deployed via Netlify using Git version control  
-- Ensured seamless performance across devices  
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartheesanjs&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartheesanjs&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartheesanjs&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-
-- 📧 karthik.dev314@gmail.com  
-- 📍 Thiruvananthapuram, India  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartheesanjs&layout=compact&theme=tokyonight)
 
 ---
 
-> Focused on building secure, scalable, and user-centered web applications.
+## 🌐 Connect
+
+📧 kartheesan2004@gmail.com  
+📍 Thiruvananthapuram, India  
+
+---
+
+> Building secure and scalable web experiences — one commit at a time.
